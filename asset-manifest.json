@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Final-Project/static/css/main.1df81c49.css",
+    "main.js": "/React-Final-Project/static/js/main.92fff00a.js",
+    "static/js/453.29fd805e.chunk.js": "/React-Final-Project/static/js/453.29fd805e.chunk.js",
+    "static/media/movielogo.png": "/React-Final-Project/static/media/movielogo.65117ec4d597136b7eeb.png",
+    "static/media/hero-bg.jpg": "/React-Final-Project/static/media/hero-bg.0ca4f9fb38a5d5a54afe.jpg",
+    "index.html": "/React-Final-Project/index.html",
+    "main.1df81c49.css.map": "/React-Final-Project/static/css/main.1df81c49.css.map",
+    "main.92fff00a.js.map": "/React-Final-Project/static/js/main.92fff00a.js.map",
+    "453.29fd805e.chunk.js.map": "/React-Final-Project/static/js/453.29fd805e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df81c49.css",
+    "static/js/main.92fff00a.js"
+  ]
+}
